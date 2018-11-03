@@ -4,4 +4,7 @@ Author: Dave Spicer
 **This text is _extremely_ important**
 
 Testing merge to master without commit (this commnet should appear in a new paragraph...)
+
 11/3/18 - added next foleder
+
+11/3/18 - cleanup readme
