@@ -5,8 +5,8 @@ Author: Dave Spicer
 
 Testing merge to master without commit (this commnet should appear in a new paragraph...)
 
-11/3/18 - added next foleder
+11/3/18 - ADDed next foleder
 
 11/3/18 - cleanup readme
 
-11/3/18 - Add second line to next file...
+11/3/18 - ADD second line to next file...
